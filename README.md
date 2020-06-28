@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Calculadora desenvolvida puramente com ReactJS e o design foi baseado na calculadora do Sistema Operacional MacOS
 
 ## Available Scripts
 
